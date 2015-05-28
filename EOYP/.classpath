@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="/unfolding-app-template-with-examples/lib/gluegen-rt-natives-linux-amd64.jar"/>
+	<classpathentry kind="lib" path="/unfolding-app-template-with-examples/lib/gluegen-rt-natives-linux-armv6hf.jar"/>
+	<classpathentry kind="lib" path="/unfolding-app-template-with-examples/lib/gluegen-rt-natives-linux-i586.jar"/>
+	<classpathentry kind="lib" path="/unfolding-app-template-with-examples/lib/gluegen-rt-natives-macosx-universal.jar"/>
+	<classpathentry kind="lib" path="/unfolding-app-template-with-examples/lib/gluegen-rt-natives-windows-amd64.jar"/>
+	<classpathentry kind="lib" path="/unfolding-app-template-with-examples/lib/gluegen-rt-natives-windows-i586.jar"/>
+	<classpathentry kind="lib" path="/unfolding-app-template-with-examples/lib/gluegen-rt.jar"/>
+	<classpathentry kind="lib" path="/unfolding-app-template-with-examples/lib/jogl-all-natives-linux-amd64.jar"/>
+	<classpathentry kind="lib" path="/unfolding-app-template-with-examples/lib/jogl-all-natives-linux-armv6hf.jar"/>
+	<classpathentry kind="lib" path="/unfolding-app-template-with-examples/lib/jogl-all-natives-linux-i586.jar"/>
+	<classpathentry kind="lib" path="/unfolding-app-template-with-examples/lib/jogl-all-natives-macosx-universal.jar"/>
+	<classpathentry kind="lib" path="/unfolding-app-template-with-examples/lib/jogl-all-natives-windows-amd64.jar"/>
+	<classpathentry kind="lib" path="/unfolding-app-template-with-examples/lib/jogl-all-natives-windows-i586.jar"/>
+	<classpathentry kind="lib" path="/unfolding-app-template-with-examples/lib/jogl-all.jar"/>
+	<classpathentry kind="lib" path="/unfolding-app-template-with-examples/lib/json4processing.jar"/>
+	<classpathentry kind="lib" path="/unfolding-app-template-with-examples/lib/libTUIO.jar"/>
+	<classpathentry kind="lib" path="/unfolding-app-template-with-examples/lib/log4j-1.2.15.jar"/>
+	<classpathentry kind="lib" path="/unfolding-app-template-with-examples/lib/sqlite-jdbc-3.7.2.jar"/>
+	<classpathentry kind="lib" path="/unfolding-app-template-with-examples/lib/unfolding.0.9.6.jar"/>
+	<classpathentry kind="lib" path="/GeocodeReverse/lib/commons-beanutils-1.7.0.jar"/>
+	<classpathentry kind="lib" path="/GeocodeReverse/lib/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="/GeocodeReverse/lib/commons-io-1.4.jar"/>
+	<classpathentry kind="lib" path="/GeocodeReverse/lib/commons-lang-2.4.jar"/>
+	<classpathentry kind="lib" path="/GeocodeReverse/lib/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="/GeocodeReverse/lib/commons-pool-1.5.4.jar"/>
+	<classpathentry kind="lib" path="/GeocodeReverse/lib/ezmorph-1.0.6.jar"/>
+	<classpathentry kind="lib" path="/GeocodeReverse/lib/json-lib-2.2.3-jdk15.jar"/>
+	<classpathentry kind="lib" path="lib/core.jar"/>
+	<classpathentry kind="lib" path="lib/gluegen-rt.jar"/>
+	<classpathentry kind="lib" path="lib/jogl-all.jar"/>
+	<classpathentry kind="lib" path="lib/json4processing.jar"/>
+	<classpathentry kind="lib" path="lib/libTUIO.jar"/>
+	<classpathentry kind="lib" path="lib/log4j-1.2.15.jar"/>
+	<classpathentry kind="lib" path="lib/sqlite-jdbc-3.7.2.jar"/>
+	<classpathentry kind="lib" path="lib/unfolding.0.9.6.jar"/>
+	<classpathentry kind="src" path="data"/>
+	<classpathentry kind="lib" path="C:/Users/Evan/.m2/repository/org/geotools/gt-referencing/12-RC1/gt-referencing-12-RC1.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="org.geotools"/>
+			<attribute name="maven.artifactId" value="gt-referencing"/>
+			<attribute name="maven.version" value="12-RC1"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="/GeocodeReverse"/>
+	<classpathentry kind="lib" path="C:/Users/Evan/.m2/repository/org/geotools/gt-opengis/12-RC1/gt-opengis-12-RC1.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="org.geotools"/>
+			<attribute name="maven.artifactId" value="gt-opengis"/>
+			<attribute name="maven.version" value="12-RC1"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Evan/Desktop/eclipse/plugins/org.junit_4.11.0.v201303080030/junit.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="http://junit-team.github.io/junit/javadoc/latest/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/patrick/Desktop/jars/java-json.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
